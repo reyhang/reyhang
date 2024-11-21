@@ -54,7 +54,7 @@
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   
-   **Tools**
+   **Others**
    
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
@@ -67,8 +67,7 @@
 
 <br />
 
-![](https://github-profile-trophy.vercel.app/?username=reyhang&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reyhang" alt="reyhang" /></a> </p>
 
 <br />
 
