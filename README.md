@@ -1,5 +1,5 @@
 ![MasterHead](https://hizliresim.com/rnbunns)
-![](https://komarev.com/ghpvc/?username=ReyhanGüney&color=blue)
+![](https://komarev.com/ghpvc/?username=ReyhanGuney&color=blue)
 <div align="center">
   <a href="https://github.com/ReyhanGuney">
     <img
