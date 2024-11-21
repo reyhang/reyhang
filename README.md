@@ -47,7 +47,7 @@
 # Github Stats
 
   <br />
-
+<row>
   <p align="center">
     <a>
       <img align="center"
@@ -65,7 +65,7 @@
         alt="ReyhanGuney" />
     </a>
   </p>
-
+<row/>
   <!--
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhang&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/reyhang/github-readme-stats)
 -->
