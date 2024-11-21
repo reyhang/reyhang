@@ -11,13 +11,11 @@
 <img src="https://github.com/reyhang/reyhang/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200
   align="right">
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
+<h3 align="left">&nbsp; Front-End Developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **React**
 
-- 💬 Ask me about **Blockchain**
-
-- 📫 How to reach me *<rreyhanguneyy@outlook.com>**
+- 📫 How to reach me *<reyhanguneyy@outlook.com>**
 
   <!--
 
