@@ -67,15 +67,15 @@
     <td>
       <a>
         <img align="center"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=reyhang&theme=material-palenight&hide_border=false"
-          alt="ReyhanGuney" width="100%" />
+        src="https://github-readme-streak-stats.herokuapp.com/?user=reyhang&theme=material-palenight&hide_border=false"
+        alt="ReyhanGuney" width="55%" />
       </a>
     </td>
     <td>
       <a>
         <img align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhang&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-          alt="ReyhanGuney" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhang&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+        alt="ReyhanGuney" />
       </a>
     </td>
   </tr>
