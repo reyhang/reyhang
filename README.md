@@ -62,24 +62,7 @@
 
 # Github Stats
   <br />
- <table align="center">
-  <tr>
-    <td>
-      <a>
-         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhang&theme=material-palenight&hide_border=false" alt="reyhang" width="100%" />
-      </a>
-    </td>
-    <td>
-      <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhang&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="reyhang"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
--->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhang&" alt="reyhang" /></p>
 
 
 <br />
