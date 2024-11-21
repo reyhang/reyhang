@@ -1,5 +1,5 @@
 ![MasterHead](https://i.hizliresim.com/rnbunns.png?_gl=1*1owgzi8*_ga*MTk2NzQ4NTk4OS4xNzMyMTc2ODA1*_ga_M9ZRXYS2YN*MTczMjE3NjgwNS4xLjEuMTczMjE3NzU1OC41Ny4wLjA.)
-![](https://komarev.com/ghpvc/?username=ReyhanGuney&color=blue)
+![](https://komarev.com/ghpvc/?username=reyhang&color=blue)
 <div align="center">
   <a href="https://github.com/reyhang">
     <img
@@ -61,7 +61,7 @@
   <p align="center">
     <a>
       <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyhanGuney&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhang&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
         alt="ReyhanGuney" />
     </a>
   </p>
