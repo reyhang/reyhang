@@ -50,23 +50,9 @@
 
   <p align="center">
     <a>
-      <img heigth="160" width="182" src="https://github.com/reyhang/reyhang/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=reyhang&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false"
-        alt="ReyhanGuney" />
-      <img heigth="160" width="182" src="https://github.com/reyhang/reyhang/blob/main/img/Bird%20Wing%20Right.png">
-    </a>
-  </p>
-
-  <br />
-
-  <p align="center">
-    <a>
-      <img heigth="160" width="182" src="https://github.com/reyhang/reyhang/blob/main/img/Bird%20Wing%20Left.png">
       <img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=reyhang&theme=material-palenight&hide_border=false"
         alt="ReyhanGuney" width="55%" />
-      <img heigth="160" width="182" src="https://github.com/reyhang/reyhang/blob/main/img/Bird%20Wing%20Right.png">
     </a>
   </p>
 
@@ -74,13 +60,9 @@
 
   <p align="center">
     <a>
-      <img heigth="160" width="182"
-        src="https://github.com/reyhang/reyhang/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
       <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyhanGuney&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
         alt="ReyhanGuney" />
-      <img heigth="160" width="182"
-        src="https://github.com/reyhang/reyhang/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
     </a>
   </p>
 
