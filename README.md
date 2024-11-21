@@ -1,7 +1,7 @@
 ![MasterHead](https://i.hizliresim.com/rnbunns.png?_gl=1*1owgzi8*_ga*MTk2NzQ4NTk4OS4xNzMyMTc2ODA1*_ga_M9ZRXYS2YN*MTczMjE3NjgwNS4xLjEuMTczMjE3NzU1OC41Ny4wLjA.)
 ![](https://komarev.com/ghpvc/?username=ReyhanGuney&color=blue)
 <div align="center">
-  <a href="https://github.com/ReyhanGuney">
+  <a href="https://github.com/reyhang">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Reyhan+Güney+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80"
       alt="Typing SVG" />
@@ -52,7 +52,7 @@
     <a>
       <img heigth="160" width="182" src="https://github.com/reyhang/reyhang/blob/main/img/Bird%20Wing%20Left.png">
       <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ReyhanGuney&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false"
+        src="https://github-readme-stats.vercel.app/api?username=reyhang&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false"
         alt="ReyhanGuney" />
       <img heigth="160" width="182" src="https://github.com/reyhang/reyhang/blob/main/img/Bird%20Wing%20Right.png">
     </a>
@@ -64,7 +64,7 @@
     <a>
       <img heigth="160" width="182" src="https://github.com/reyhang/reyhang/blob/main/img/Bird%20Wing%20Left.png">
       <img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ReyhanGuney&theme=material-palenight&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=reyhang&theme=material-palenight&hide_border=false"
         alt="ReyhanGuney" width="55%" />
       <img heigth="160" width="182" src="https://github.com/reyhang/reyhang/blob/main/img/Bird%20Wing%20Right.png">
     </a>
@@ -85,7 +85,7 @@
   </p>
 
   <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhang&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/ReyhanGuney/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhang&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/reyhang/github-readme-stats)
 -->
 
   <br />
