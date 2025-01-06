@@ -8,20 +8,12 @@
       alt="Typing SVG" />
   </a>
 </div>
-<img src="https://github.com/reyhang/reyhang/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200
-  align="right">
 
 <h3 align="left">&nbsp; Front-End Developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **React**
 
 - 📫 How to reach me *<reyhanguneyy@outlook.com>**
-
-  <!--
-
-<details>
-  <summary>:zap: GitHub Stats</summary> 
--->
 
   # 💻 Languages and Tools
 
@@ -60,17 +52,7 @@
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
 
 
-# Github Stats
-  <br />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhang&" alt="reyhang" /></p>
 
 
-<br />
-  <!--
-</details>
--->
-
-  <!--
-<details>
    <summary>:zap: Languages and Tools</summary>
  -->
