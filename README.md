@@ -50,9 +50,3 @@
    
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
-
-
-
-
-   <summary>:zap: Languages and Tools</summary>
- -->
